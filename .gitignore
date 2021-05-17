@@ -8,3 +8,4 @@ pyvenv.cfg
 .vscode
 Pipfile
 Pipfile.lock
+config/__pycache__
