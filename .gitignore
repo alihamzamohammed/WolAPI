@@ -1,1 +1,8 @@
 WolAPI.code-workspace
+bin
+include
+lib
+lib64
+share
+pyvenv.cfg
+.vscode
