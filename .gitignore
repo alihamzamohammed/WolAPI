@@ -9,3 +9,5 @@ pyvenv.cfg
 Pipfile
 Pipfile.lock
 config/__pycache__
+backend/__pycache__
+backend/migrations/__pycache__
